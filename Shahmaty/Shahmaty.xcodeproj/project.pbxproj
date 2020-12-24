@@ -25,6 +25,14 @@
 /* Begin PBXFileReference section */
 		D713FF19251365B20043C54D /* Shahmaty */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Shahmaty; sourceTree = BUILT_PRODUCTS_DIR; };
 		D713FF1C251365B20043C54D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D7E6E5AA2595395200F7F4B6 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		D7E6E5AC25953A2300F7F4B6 /* peshka.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = peshka.h; sourceTree = "<group>"; };
+		D7E6E5AE2595403D00F7F4B6 /* ladya.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ladya.h; sourceTree = "<group>"; };
+		D7E6E5AF2595406500F7F4B6 /* hourse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hourse.h; sourceTree = "<group>"; };
+		D7E6E5B12595409F00F7F4B6 /* slon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = slon.h; sourceTree = "<group>"; };
+		D7E6E5B2259540BC00F7F4B6 /* ferz.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ferz.h; sourceTree = "<group>"; };
+		D7E6E5B3259540D000F7F4B6 /* king.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = king.h; sourceTree = "<group>"; };
+		D7E6E5B5259542A400F7F4B6 /* otvet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = otvet.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,14 @@
 			isa = PBXGroup;
 			children = (
 				D713FF1C251365B20043C54D /* main.cpp */,
+				D7E6E5B5259542A400F7F4B6 /* otvet.h */,
+				D7E6E5AA2595395200F7F4B6 /* Header.h */,
+				D7E6E5B3259540D000F7F4B6 /* king.h */,
+				D7E6E5B12595409F00F7F4B6 /* slon.h */,
+				D7E6E5AF2595406500F7F4B6 /* hourse.h */,
+				D7E6E5AC25953A2300F7F4B6 /* peshka.h */,
+				D7E6E5AE2595403D00F7F4B6 /* ladya.h */,
+				D7E6E5B2259540BC00F7F4B6 /* ferz.h */,
 			);
 			path = Shahmaty;
 			sourceTree = "<group>";
